@@ -1,0 +1,24 @@
+{
+  "name": "umutileri",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Umut",
+  "license": "ISC",
+  "dependencies": {
+    "bot.js": "0.0.1",
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "figlet": "^1.2.3",
+    "jimp": "^0.6.4",
+    "moment": "^2.24.0",
+    "moment-duration": "0.0.6",
+    "name": "0.0.2",
+    "request": "^2.88.0"
+  }
+}
